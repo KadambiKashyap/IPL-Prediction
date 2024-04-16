@@ -29,6 +29,6 @@ In conclusion, the IPL prediction project showcases the potential of machine lea
 ## Repository Structure
 
 - `ipl.csv`: Raw dataset containing IPL match data.
-- `ipl_prediction.ipynb`: Jupyter Notebook containing code for data preprocessing, feature engineering, model training, and evaluation.
+- `IPL.ipynb`: Jupyter Notebook containing code for data preprocessing, feature engineering, model training, and evaluation.
 - `scaler.pkl`: Saved scaler object used for feature scaling.
 - `iplmodel_ridge.sav`: Trained Ridge regression model saved for deployment.
